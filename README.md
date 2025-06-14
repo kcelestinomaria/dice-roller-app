@@ -86,7 +86,7 @@ This project was developed and submitted as part of the **Mobile Application Dev
 
 ## 📸 Screenshot
 
-<img src="screenshots/dice_roller_screenshot.png" width="300" alt="App Screenshot" />
+<img src="Screenshot 2025-06-14 212104.png" width="300" alt="App Screenshot" />
 
 ---
 
