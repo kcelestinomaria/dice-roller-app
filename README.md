@@ -94,5 +94,3 @@ This project was developed and submitted as part of the **Mobile Application Dev
 
 This project is submitted for academic purposes. All rights reserved to the contributors and Strathmore University.
 
-```
-
